@@ -26,7 +26,7 @@ github_username:  jekyll
 
 # Build settings
 markdown: kramdown
-theme: particle
+remote_theme: nrandecker/particle
 plugins:
   - jekyll-feed
 
